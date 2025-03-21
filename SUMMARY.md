@@ -1,14 +1,15 @@
 # Table of contents
 
+* [Welcome to DackieVerse](README.md)
+
 ## Getting Started
 
-* [About us](README.md)
+* [About Us](<README (1).md>)
 * [Our Vision](getting-started/our-vision.md)
 * [The Saga of  the DackieVerse](getting-started/the-saga-of-the-dackieverse.md)
 
 ## Our Products
 
-* [DackieVerse](our-products/dackieverse.md)
 * [Deggkies](our-products/deggkies.md)
 * [DackieOnBase](our-products/dackieonbase.md)
 * [DackiEGG](our-products/dackiegg.md)
