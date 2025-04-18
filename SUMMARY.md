@@ -4,9 +4,9 @@
 
 ## Getting Started
 
-* [About Us](<README (1).md>)
+* [About Us](getting-started/about-us.md)
 * [Our Vision](getting-started/our-vision.md)
-* [The Saga of  the DackieVerse](getting-started/the-saga-of-the-dackieverse.md)
+* [The Saga of the DackieVerse](getting-started/the-saga-of-the-dackieverse.md)
 
 ## Our Products
 
