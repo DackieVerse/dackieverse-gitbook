@@ -20,4 +20,4 @@ layout:
 
 # Welcome to DackieVerse
 
-"DackieVerse is a magical digital world where eggs become legend, bringing together community and adventure"
+"The magical digital world where eggs become legend, bringing together community and adventure"
